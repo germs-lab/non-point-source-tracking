@@ -1,0 +1,2 @@
+You need to have OTU tables for each simulation (see simulation data) in the directory along with the files included here.  To execute, edit the "do.sh" file with the appropriate file names, and then execute do.sh.
+
