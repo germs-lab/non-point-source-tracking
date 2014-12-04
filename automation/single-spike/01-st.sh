@@ -8,3 +8,4 @@ mv $combo.meta $combo-qiime/metadata.txt
 cd $combo-qiime
 biom convert -i otu_table.biom -o otus.txt -b
 R --vanilla --slave < example.r
+
